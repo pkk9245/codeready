@@ -21,9 +21,9 @@
 
           <li class="dropdown has-dropdown"><a href="index.php#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul class="dd-box-shadow">
-              <li><a href="http://localhost:8080?r=site/development" target="_blank" >Web Development</a></li>
-              <li><a href="http://localhost:8080?r=site/dsai" target="_blank">Data Science & AI </a></li>
-              <li><a href="http://localhost:8080?r=site/cloud" target="_blank">Cloud Services</a></li>
+              <li><a href="web/?r=site/development" target="_blank" >Web Development</a></li>
+              <li><a href="web/?r=site/dsai" target="_blank">Data Science & AI </a></li>
+              <li><a href="web/?r=site/cloud" target="_blank">Cloud Services</a></li>
             </ul>
           </li>
 
